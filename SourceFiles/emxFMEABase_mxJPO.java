@@ -1,5 +1,5 @@
 /*   emxPart.
- ** 
+ **
  **   Copyright (c) 2002-2011 Dassault Systemes.
  **   All Rights Reserved.
  **   This program contains proprietary and trade secret information of MatrixOne,
@@ -10,7 +10,7 @@
  **
  **   static const char RCSID[] = $Id: emxPart.java.rca 1.10 Wed Oct 22 16:25:43 2008 przemek Experimental przemek przemek $
  * Modification Details:
- * 
+ *
  * 01-Feb-18 | skovvuru  | 16331 | Modified the method setRPNValue. Added 
  */
 
